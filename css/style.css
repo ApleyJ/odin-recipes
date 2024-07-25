@@ -1,0 +1,27 @@
+.recipes,
+.meatloaf,
+.casserole,
+.tacos {
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+img {
+  height: auto;
+  width: 500px;
+}
+h4 {
+  text-align: justify;
+  font-weight: 100;
+  font-size: 18px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul {
+  font-size: 14px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+ol {
+  font-size: 16px;
+  font-weight: bold;
+}
